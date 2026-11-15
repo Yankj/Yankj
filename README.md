@@ -2,7 +2,7 @@
 
 # Hi, I'm JackYan 👋
 
-**独立开发者 · [HeyDusk / 理想三旬](https://heydusk.com) 主理人**
+**前端出身的 AI Builder · 推动 AI 原生交付 · [HeyDusk / 理想三旬](https://heydusk.com) 独立开发者**
 
 做身边真正会办事的 AI 产品，也做能走进去的 3D 世界。
 
@@ -22,7 +22,7 @@
 | :-- | :-- | :-- | :-- |
 | [**小咪 Mimi**](https://github.com/Yankj/mimi) | 面向家庭育儿的 iOS 助理：拍一张、说一句，整理成待你确认的安排。先你一步，把事办妥。 | SwiftUI · SwiftData · Supabase Edge Functions | [v1.2.0](https://github.com/Yankj/mimi/releases/tag/v1.2.0) 已发布 · [产品站](https://mimi.heydusk.com) |
 | [**余生所往**](https://life.heydusk.com) | 把陶渊明的桃花源、归园田居、采菊东篱下做成可以漫步的网页 3D 世界。 | Three.js · WebGL | [在线体验](https://life.heydusk.com) |
-| [**Ferry Dock 渡口**](https://github.com/Yankj/ferry-dock) | 手机上的文字，一扫码就到电脑上；也能直接交给正在干活的 Agent。本地、临时、不留痕。 | Python · Go CLI | [v0.1.0-alpha.2](https://github.com/Yankj/ferry-dock/releases/tag/v0.1.0-alpha.2) 早期 alpha · [产品页](https://heydusk.com/zh/products/ferry-dock) |
+| [**Ferry Dock 渡口**](https://github.com/Yankj/ferry-dock) | 手机上的文字，一扫码就到电脑上；也能直接交给正在干活的 Agent。本地、临时、不留痕。 | Python · Go | [v0.1.0-alpha.2](https://github.com/Yankj/ferry-dock/releases/tag/v0.1.0-alpha.2) 早期 alpha · [产品页](https://heydusk.com/zh/products/ferry-dock) |
 | [**Momo**](https://heydusk.com/zh/products/momo) | 由家长陪伴的英语学习产品，以持久课堂画布组织学习。 | — | 开发中 · 见[官网产品页](https://heydusk.com/zh/products/momo) |
 | [**FrameForge / 小片场**](https://heydusk.com/zh/products/frameforge) | 面向创作者的视频创作工具，涵盖本地 Creator Studio、可复用的导演流程与科普视频制作。 | — | 开发中 · 见[官网产品页](https://heydusk.com/zh/products/frameforge) |
 | [**create-code-video**](https://github.com/Yankj/create-code-video) | 一个 Agent Skill：给它要点，产出带配音、封面和发布文案的技术讲解短视频。 | Agent Skill · Three.js · TTS | 开源 |
@@ -32,7 +32,7 @@
 
 - [**知识博客**](https://blog.heydusk.com)：用 Obsidian 记录、Quartz 发布，写软件工程、AI Agent 和产品观察。（[yankj.github.io](https://yankj.github.io) 会跳转到此）
 - [**Deep AI Studio**](https://github.com/Yankj/deep-ai-studio)：深度 AI 内容创作的人格、写作规范与每期复盘。
-- [**AI Transformation OS**](https://github.com/Yankj/ai-transformation-os)：软件工程师在 AI 时代的职业升级系统。主线更新见[进行中的 PR](https://github.com/Yankj/ai-transformation-os/pull/1)，尚未合入。
+- [**AI Transformation OS**](https://github.com/Yankj/ai-transformation-os)：软件工程师在 AI 时代的职业升级系统。讲三类交付范式并存，以及 Docs → Rules → Skills → Agent 的工程能力演进。
 
 ### 开源贡献
 
